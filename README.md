@@ -1,2 +1,2 @@
-# ufiweather-app
+# ufiweatherapp
 My first Weatherapp repository on GitHub
